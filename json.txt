@@ -1,0 +1,16 @@
+JSON stands for JavaScript Object Notation.
+JSON is a lightweight data-interchange format
+JSON is "self-describing" and easy to understand
+JSON is language independent.
+
+filename represents the name of the image.
+
+size represents the 
+
+regions describes the details of the image. It has 2 parts- shape_attributes and region_attributes.
+
+shape_attributes gives the specifications of the bounding box - its shape, x and y coordinates of the center point, width and height of the bounding box.
+
+region_attributes specifies the object class and other details of the image which we have described in the VGG anotation tool.
+
+
